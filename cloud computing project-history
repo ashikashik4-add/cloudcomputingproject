@@ -1,0 +1,75 @@
+  324  cd /
+  325  ls
+  326  cd home
+  327  ls
+  328  cd administrator
+  329  ls
+  330  cd Desktop
+  331  ls
+  332  mkdir cloud1
+  333  cd cloud1
+  334  touch folder.txt
+  335  ls
+  336  cd ashik1
+  337  git add folder.txt
+  338  git commit -m "first commit"
+  339  git clone https://github.com/ashikashik4-add/ashik2.git
+  340  git status
+  341  git init
+  342  git remote set-url origin "https://ghg_yIWJ6YiVKlfqNBxq0PnKie6UTfoPfW0Zap1Hs@github.com/ashikashik4-add/ashik1"
+  343  cd /
+  344  ls
+  345  cd home
+  346  ls
+  347  cd administrator
+  348  ls
+  349  cd Desktop
+  350  mkdir cloud
+  351  cd cloud
+  352  touch file1.txt
+  353  touch file2.txt
+  354  cat > file1.txt
+  355  cat file1.txt
+  356  cat > file2.txt
+  357  cat file2.txt
+  358  history
+  359  vim
+  360  history
+  361  cd /
+  362  ls
+  363  cd home
+  364  ls
+  365  cd administrator
+  366  ls
+  367  cd Desktop
+  368  cat monitoring_logs
+  369  cat web_server
+  370  mkdir project cloud computing
+  371  mkdir final project file
+  372  mkdir project1
+  373  cd project1
+  374  cd ..
+  375  history
+  376  pws
+  377  pwd
+  378  vim
+  379  history
+  380  nano script.ch
+  381  cd /
+  382  ls
+  383  cd home
+  384  ls
+  385  cd administrator
+  386  ls
+  387  cd Desktop
+  388  history
+  389  vi
+  390  cd /
+  391  ls
+  392  cd home
+  393  ls
+  394  cd administrator
+  395  ls
+  396  cd Desktop
+  397  history
+
